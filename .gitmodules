@@ -1,0 +1,4 @@
+[submodule "psadurango"]
+	path = psadurango
+	url = git@git.vauxoo.com:vauxoo/psadurango.git
+	branch = 15.0
