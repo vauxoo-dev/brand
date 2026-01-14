@@ -14,10 +14,6 @@
 	path = account-payment-split
 	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
 	branch = 19.0
-[submodule "brand"]
-	path = brand
-	url = git@github.com:Vauxoo/brand.git
-	branch = 19.0
 [submodule "l10n-mx-cash-basis-entries"]
 	path = l10n-mx-cash-basis-entries
 	url = git@git.vauxoo.com:mexico/l10n-mx-cash-basis-entries.git
@@ -38,3 +34,7 @@
 	path = l10n-mx-edi-zip
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-zip.git
 	branch = 19.0
+[submodule "brand"]
+	path = brand
+	url = git@github.com:vauxoo-dev/brand.git
+	branch = 19.0-mig-brand
